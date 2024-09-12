@@ -1,2 +1,3 @@
-(b) Scrum master deals with JIRA tooling, facilitating sprints and meetings and does standups.
-On the other hand, the product owner sets the direction for the team, handles release management and stakeholder management.
+(c) sprint planning meeet: (1) start sprint (2) discuss what to complete in upcoming sprint
+Daily standup meeting: (1) discuss work completed (2) work plan for the day and any blockers
+sprint retrospective meeting: (1) closing sprint (2) discuss work complete/move incomp work to the backlog.
