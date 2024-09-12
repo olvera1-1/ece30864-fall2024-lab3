@@ -1,3 +1,3 @@
-(c) sprint planning meeet: (1) start sprint (2) discuss what to complete in upcoming sprint
-Daily standup meeting: (1) discuss work completed (2) work plan for the day and any blockers
-sprint retrospective meeting: (1) closing sprint (2) discuss work complete/move incomp work to the backlog.
+(d) an Epic is a large body of work than can be broken down into smaller things called soties. 
+Stories are software system requirements that can be explained in a few short sentences. 
+Task issue are considered a unit of work to be tracked through workflow. Lastly, a bug is the smallest unit of work.
