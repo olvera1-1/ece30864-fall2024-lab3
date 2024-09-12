@@ -1,1 +1,2 @@
-initial
+(a) Some pros include constant collaboration with costumer, breaking down the project to several stages, and emphasis on DevOps.
+Some cons include team dependency and limited documnetation.
